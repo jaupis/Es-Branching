@@ -1,2 +1,6 @@
 File2
+<<<<<<< HEAD
 commit CB
+=======
+modifica conflitto CB
+>>>>>>> feature_x
