@@ -2,3 +2,4 @@ File1
 commit CA
 commit dopo risoluzione del conflitto
 commit master prima di rebase
+commit master prima di bugfix
